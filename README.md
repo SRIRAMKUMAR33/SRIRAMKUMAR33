@@ -1,14 +1,10 @@
 # 💫 About Me:
 💻 I’m a passionate Java Developer and Frontend Developer<br><br>🌱 Currently improving my skills in DSA, Java, and Web Development<br><br>🧠 Strong interest in Problem Solving and Logical Thinking<br><br>🚀 Love building responsive and user-friendly applications<br><br>🤝 Looking to collaborate on Java and Web Development Projects<br><br>📚 Always eager to learn new technologies and improve coding skills<br><br>⚡ Fun fact: I enjoy solving coding challenges and debugging complex problem
 
-<h2>🏆 Coding Profiles:</h2>
+## Coding Profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/sriramkumar007/)
 
-<p align="left">
-  <a href="https://leetcode.com/u/sriramkumar007/" target="_blank" style="text-decoration:none; margin-right:40px;">
-    <img src="https://cdn.simpleicons.org/leetcode" width="80" height="80"/><br>
-    <span>LeetCode</span>
-  </a>
-
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/a23bec108srirm)
   <a href="https://www.codechef.com/users/a23bec108srirm" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/codechef" width="80" height="80"/><br>
     <span>CodeChef</span>
