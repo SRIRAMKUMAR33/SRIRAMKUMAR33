@@ -1,10 +1,8 @@
 # 💫 About Me:
-💻 I’m a passionate Java Developer and Frontend Developer<br><br>🌱 Currently improving my skills in DSA, Java, and Web Development<br><br>🧠 Strong interest in Problem Solving and Logical Thinking<br><br>🚀 Love building responsive and user-friendly applications<br><br>🤝 Looking to collaborate on Java and Web Development Projects<br><br>📚 Always eager to learn new technologies and improve coding skills<br><br>⚡ Fun fact: I enjoy solving coding challenges and debugging complex problem, Competitive Programmer
-## 🏆 Coding Profiles:
+💻 I’m a passionate Java Developer and Frontend Developer<br><br>🌱 Currently improving my skills in DSA, Java, and Web Development<br><br>🧠 Strong interest in Problem Solving and Logical Thinking<br><br>🚀 Love building responsive and user-friendly applications<br><br>🤝 Looking to collaborate on Java and Web Development Projects<br><br>📚 Always eager to learn new technologies and improve coding skills<br><br>⚡ Fun fact: I enjoy solving coding challenges and debugging complex problem
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sriramkumar007/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces)](https://www.codechef.com/users/a23bec108srirm)
+## 🏆 Coding Profiles
+<a href="https://leetcode.com/u/sriramkumar007/" target="_blank"> <img src="https://cdn.simpleicons.org/leetcode" width="45" height="45"/> </a> <a href="https://www.codechef.com/users/a23bec108srirm" target="_blank"> <img src="https://cdn.simpleicons.org/codeforces" width="45" height="45"/> </a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sriramkumar-d-b53b83294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Dh98444I) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksriram384@gmail.com) 
@@ -18,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SRIRAMKUMAR33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SRIRAMKUMAR33&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
